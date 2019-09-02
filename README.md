@@ -1,5 +1,5 @@
 # OSCP-60days
-OSCP (No more tools is required.)
+OSCP (Offensive Security Certified Professional)
 
 REAL LIFE PENETRATION TESTING EXPERIENCE...!!
 
