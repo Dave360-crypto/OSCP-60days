@@ -6,11 +6,11 @@ REAL LIFE PENETRATION TESTING EXPERIENCE...!!
 IT WAS AN AMAZING JOURNEY...!!
 
 ```
-In This Repo you will get all the necessary tools and pdf required for OSCP.
+In This Repo you will get all the necessary tools and pdfs required for OSCP.
 ```
 ```
-In the repo I have mentioned all my findings during my OSCP Journey.
-So, find the Correct Tools & Info from the repo and use it to HACK THE PLANET.
+In this repo I have mentioned all my findings during my OSCP Journey.
+So, find the Correct Tools & Information from the repo and use it to HACK THE PLANET.
 ```
 
 # OSCP MANTRA
