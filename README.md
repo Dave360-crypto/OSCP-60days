@@ -21,7 +21,8 @@ So, find the Correct Tools & Information from the repo and use it to HACK THE PL
 
 ## :dollar: Paypal Donate Link
 ```
-I'm Collecting Money for eCPTX Course. 
+Hello Firends I'm Collecting Money for eCPTX Course. 
 So, if you wish to donate plz feel free to visit below link. 
+Your small donation means alot to me.
 ```
 https://www.paypal.me/anandkumar11u/
