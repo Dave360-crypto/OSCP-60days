@@ -19,10 +19,9 @@ So, find the Correct Tools & Information from the repo and use it to HACK THE PL
 
 2. Try Harder
 
-## :dollar: Paypal Donate Link
+## :dollar: Paypal Donation Box [Your small donation means alot to me.]
 ```
 Hello Friends, Professional and Experts I'm Collecting Money for eCPTX Course. 
 So, if you wish to donate plz feel free to visit below link. 
-Your small donation means alot to me.
 ```
 https://www.paypal.me/anandkumar11u/
