@@ -18,7 +18,3 @@ So, find the Correct Tools & Information from the repo and use it to HACK THE PL
 1. Enumeration
 
 2. Try Harder
-
-## :dollar: Paypal Donation Box
-
-https://www.paypal.me/anandkumar11u/
